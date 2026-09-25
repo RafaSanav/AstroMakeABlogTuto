@@ -1,16 +1,15 @@
 ---
-title: 'My First Blog Post'
+layout: ../layouts/MarkdownPostLayout.astro
+title: 'My Primer postblog'
 pubDate: 2022-07-01
 description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+author: 'Rafa Sanchezz'
 image:
-    src: 'primero.png'
+    url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-# My First Blog Post
 
-Published on: 2022-07-01
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
